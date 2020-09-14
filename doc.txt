@@ -1,0 +1,8 @@
+superman
+spiderman
+thor
+hulk
+thanos
+sliverman
+java
+javascript
